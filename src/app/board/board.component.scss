@@ -1,0 +1,18 @@
+main {
+
+	left:-30px;
+	position:relative;
+    display: grid;
+    grid-template-columns: 150px 150px 150px;
+    grid-gap: 7px;
+
+}
+  
+app-square {
+
+    height: 100px;
+
+}
+
+
+
